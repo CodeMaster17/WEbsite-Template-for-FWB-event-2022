@@ -5,6 +5,7 @@
 }
 body{
     background-color: #e1e1e8;
+    font-family: 'Roboto Slab', serif;
 }
 .navbar{
     display: flex;
@@ -195,9 +196,9 @@ h2{
     flex-direction: row;
     justify-content: space-evenly;
     /* border: 2px solid green; */
-    width:90vw;
-    margin: 0 5vw;
-    background-color: white;
+    /* width:90vw; */
+    /* margin: 0 5vw; */
+    background-color: black;
     box-shadow:  5px 5px 5px grey;;
 }
 
